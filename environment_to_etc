@@ -1,0 +1,13 @@
+export JAVA_HOME=/opt/jdk1.8.0_45
+export JRE_HOME=/opt/jdk1.8.0_45/jre
+
+
+export MAVEN_HOME=/opt/maven
+export TOMEE_HOME=/opt/tomee
+export TOMCAT_HOME=/opt/tomee
+export CATALINA_HOME=/opt/tomee
+export SONARQUBE_HOME=/opt/sonar
+export SONAR_RUNNER_HOME=/opt/sonar-runner
+export SELENIUM_SERVER_HOME=/opt/selenium-server
+
+
